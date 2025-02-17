@@ -28,9 +28,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
    ```
 3. Abra o arquivo `index.html` em um navegador web.
 
-## 📷 Capturas de Tela
-(Adicione aqui imagens do jogo rodando, se desejar.)
-
 ## 📚 Aprendizados
 Durante o desenvolvimento deste projeto, foram praticados conceitos como:
 - Manipulação do DOM com JavaScript.
